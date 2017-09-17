@@ -1,0 +1,85 @@
+{
+    "feed" : {
+        "title": "Đồ Án LT Di Động - AnhDuy",
+        "link": "https://www.facebook.com/ngo.a.duy",
+        "author": "Anh Duy DH15PM"
+    },
+    
+    "episodes" : [
+        {
+            "title": "Luyện Nghe Tiếng Anh Cơ Bản",
+            "link": "https://www.youtube.com/watch?v=sWEInq3t96I&t=1474s&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5&index=1",
+            "pubDate": "Mon, 28 Mar 2016",
+            "author": "Anh Duy",
+            "description": "Luyện nghe tiếng anh cơ bản. Giao tiếp hiệu quả từ A đến Z bao gồm cách nghe tiếng anh và nguồn bài nghe tiếng anh!",
+            "thumbnailURL": "http://img.youtube.com/vi/sWEInq3t96I/maxresdefault.jpg"
+        },
+        
+        {
+        
+                  "title": "Vốn từ vựng, Các hoạt động trong ngày",
+                  "link": "https://www.youtube.com/watch?v=pqwD0uwYAmY&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5&index=2",
+                  "pubDate": "Mon, 21 Mar 2016",
+                  "author": "Cô Trang",
+                  "description": "Luyện nghe tiếng anh cơ bản và các kỹ năng nâng cao, cải thiện kỹ năng nghe",
+                  "thumbnailURL": "http://img.youtube.com/vi/AYas7rttREY/maxresdefault.jpg"
+
+        },
+        
+        {
+                  "title": "Đồ ăn trong tiếng anh",
+                  "link": "https://www.youtube.com/watch?v=vDFe7Psqc-g&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5&index=3",
+                  "pubDate": "Mon, 28 Mar 2016",
+                  "author": "Thầy Duy",
+                  "description": "Đồ ăn trong tiếng anh và các món ăn việt,tên đồ ăn trong tiếng anh!",
+                  "thumbnailURL": "http://img.youtube.com/vi/Z4AhZLylP5o/maxresdefault.jpg"
+
+        },
+        
+        {
+            "title": "Cách hỏi và chỉ đường trong tiếng anh",
+            "link": "https://www.youtube.com/watch?v=oRvVlMmDqtY&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5&index=4",
+            "pubDate": "Thu, 17 Mar 2016",
+            "author": "Thầy Duy",
+            "description": "Luyện nghe Cách hỏi và chỉ đường trong tiếng anh nhé! ",
+            "thumbnailURL": "http://img.youtube.com/vi/oRvVlMmDqtY/maxresdefault.jpg"
+        },
+        
+        {
+                  "title": "Mô tả người trong tiếng anh",
+                  "link": "https://www.youtube.com/watch?v=xUbaEVfyogk&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5&index=5",
+                  "pubDate": "Thu, 17 Mar 2016",
+                  "author": "Thầy Duy",
+                  "description": "Luyện nghe Cơ bản cách mô tả người! ",
+                  "thumbnailURL": "http://img.youtube.com/vi/xUbaEVfyogk/maxresdefault.jpg"
+        },
+        
+        {
+                  "title": "Cách chào hỏi giao tiếp",
+                  "link": "https://www.youtube.com/watch?v=SNspJnx1pho&index=6&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5",
+                  "pubDate": "Thu, 17 Mar 2016",
+                  "author": "Thầy Duy",
+                  "description": "Cùng học cách chào hỏi mọi người nào, nó thật sự hữu ích khi gặp một người nước ngoài đấy! ",
+                  "thumbnailURL": "http://img.youtube.com/vi/jfK_4mnl7FQ/maxresdefault.jpg"
+        },
+        
+        {
+                  "title": "Nói về thời tiết trong tiếng anh",
+                  "link": "https://www.youtube.com/watch?v=FqkuGAC8IMk&index=7&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5",
+                  "pubDate": "Thu, 17 Mar 2016",
+                  "author": "Cô Mary và thầy Tâm",
+                  "description": "Nghe về các từ vựng thời tiết cũng như dự báo thuỷ văn ",
+                  "thumbnailURL": "http://img.youtube.com/vi/jwzjEfTXH_0/maxresdefault.jpg"
+        },
+        
+        {
+            "title": "Cách gọi đồ ăn trong tiếng anh",
+            "link": "https://www.youtube.com/watch?v=tAf3LZwVcIo&list=PLnwkiTgOYjUzqdx7n0z_Jz8GjjATrVqt5&index=8",
+            "pubDate": "Sun, 13 Mar 2016",
+            "author": "Thầy Duy",
+                  "description" : "Bài cuối: Cách đồ ăn trong nhà hàng hay bàn tiệc.",
+              "thumbnailURL": "http://img.youtube.com/vi/tAf3LZwVcIo/maxresdefault.jpg"
+        }
+        
+        ]
+}
