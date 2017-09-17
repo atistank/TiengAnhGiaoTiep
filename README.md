@@ -1,7 +1,7 @@
 # TiengAnhGiaoTiep
 <p align="center">TiengAnhGiaoTiep. - Ngo Anh Duy - DH15PM - 0947437752 2015 </p>
 
-<p align="center">This my homework in school i made when i'm begining Swift language in 02/2017, design by Photoshop and illustrator, some feature i learn from  Udemiy, cousera, brian, ductran.
+<p align="center">This my homework in school i made when i'm begining Swift language in 02/2017, design by Photoshop and illustrator, some feature i learn from  Udemiy, cousera, brian, ductran. unfortunately, i're not finished with the project.
 </p>
 
 <p align="center">------------- SceenShot Demo-----------------</p>
