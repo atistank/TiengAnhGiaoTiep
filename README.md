@@ -3,8 +3,14 @@
 ![status](https://img.shields.io/travis/USER/REPO.svg)
 [![contact](https://img.shields.io/badge/contact-facebook-blue.svg)](https://www.facebook.com/ngo.a.duy)
 
-This my homework in school i made when i'm begining Swift language in 02/2017, design by Photoshop and illustrator, some feature i learn from  Udemiy, cousera, brian, ductran. unfortunately, i'm not finished with the project.
-Ngo Anh Duy - DH15PM - 0947437752 
+This my homework in school i made when i'm begining Swift language in 02/2017. Unfortunately, i'm not finished with the project. Some thing i learn from  Udemiy, cousera, brian, ductran. 
+
+##Feature
+
+- login, sign up account with Firebase.
+- watching channel youtube for englist pronoun videos to improve skills
+- follow website or map location of center 
+- Ngo Anh Duy - DH15PM - 0947437752 
 <p align="center">------------- SceenShot Demo-----------------</p>
 
 
