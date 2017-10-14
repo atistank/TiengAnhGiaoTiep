@@ -10,7 +10,8 @@ This my homework in school i made when i'm begining Swift language in 02/2017. 
 - login, sign up account with Firebase.
 - watching channel youtube for englist pronoun videos to improve skills
 - follow website or map location of center 
-- Ngo Anh Duy - DH15PM - 0947437752 
+- share facebook or visit website
+- Ngo Anh Duy - DH15PM - AGU - 0947437752 
 <p align="center">------------- SceenShot Demo-----------------</p>
 
 
