@@ -1,9 +1,10 @@
 # TiengAnhGiaoTiep
-<p align="center">TiengAnhGiaoTiep. - Ngo Anh Duy - DH15PM - 0947437752 2015 </p>
+![swift](https://img.shields.io/badge/swift-4-orange.svg)
+![status](https://img.shields.io/travis/USER/REPO.svg)
+[![contact](https://img.shields.io/badge/contact-facebook-blue.svg)](https://www.facebook.com/ngo.a.duy)
 
-<p align="center">This my homework in school i made when i'm begining Swift language in 02/2017, design by Photoshop and illustrator, some feature i learn from  Udemiy, cousera, brian, ductran. unfortunately, i're not finished with the project.
-</p>
-
+This my homework in school i made when i'm begining Swift language in 02/2017, design by Photoshop and illustrator, some feature i learn from  Udemiy, cousera, brian, ductran. unfortunately, i'm not finished with the project.
+Ngo Anh Duy - DH15PM - 0947437752 
 <p align="center">------------- SceenShot Demo-----------------</p>
 
 
